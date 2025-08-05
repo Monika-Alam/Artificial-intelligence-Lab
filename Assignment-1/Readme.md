@@ -27,3 +27,20 @@ This is part of a lab assignment to demonstrate string manipulation, character h
 
 1. Make sure Python 3 is installed.
 2. Rename the Python file using your **name and ID**, for example:
+Monika_Akter_1047
+3. Open a terminal and run the script:
+```bash
+python Monika_Akter_1047.py
+
+## Sample input and Output:
+Enter your full name: Monika Akter
+
+Full Name: Monika Akter
+Vowels: 5 , Consonants: 6
+ASCII Values: [77, 111, 110, 105, 107, 97, 32, 65, 107, 116, 101, 114]
+Reversed Name: retkA akinoM
+Is Palindrome: False
+Unique Letters (sorted): ['A', 'M', 'a', 'e', 'i', 'k', 'n', 'o', 'r', 't']
+First Non-Repeating Character: M
+
+
